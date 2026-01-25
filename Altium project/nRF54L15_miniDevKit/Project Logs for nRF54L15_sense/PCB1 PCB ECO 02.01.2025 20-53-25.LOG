@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=3V3 Pin=R13-1
-Removed Pin From Net: NetName=V_USB Pin=R14-2
-Removed Member From Class: ClassName=USB_UART_Bridge Member=R13
-Removed Member From Class: ClassName=USB_UART_Bridge Member=R14
-Added Pin To Net: NetName=3V3 Pin=U3-6
-Added Pin To Net: NetName=V_USB Pin=U3-7

@@ -1,10 +1,82 @@
 [OutputJobFile]
 Version=1.0
+Caption=
+Description=
+VaultGUID=
+ItemGUID=
+ItemHRID=
+RevisionGUID=
+RevisionId=
+VaultHRID=
+AutoItemHRID=
+NextRevId=
+FolderGUID=
+LifeCycleDefinitionGUID=
+RevisionNamingSchemeGUID=
+
+[OutputGroup1]
+Name=nRF54L15_miniDevKit.OutJob
+Description=
+TargetOutputMedium=PDF
+VariantName=[No Variations]
+VariantScope=0
+CurrentConfigurationName=
+TargetPrinter=Virtual Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputMedium1=Print Job
+OutputMedium1_Type=Printer
+OutputMedium1_Printer=
+OutputMedium1_PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputMedium2=PDF
+OutputMedium2_Type=Publish
+OutputMedium3=Folder Structure
+OutputMedium3_Type=GeneratedFiles
+OutputMedium4=Video
+OutputMedium4_Type=Multimedia
+OutputType1=Schematic Print
+OutputName1=Schematic Prints
+OutputCategory1=Documentation
+OutputDocumentPath1=[Project Physical Documents]
+OutputVariantName1=[No Variations]
+OutputEnabled1=1
+OutputEnabled1_OutputMedium1=0
+OutputEnabled1_OutputMedium2=1
+OutputEnabled1_OutputMedium3=0
+OutputEnabled1_OutputMedium4=0
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=
+OutputType2=Gerber X2
+OutputName2=Gerber X2 Files
+OutputCategory2=Fabrication
+OutputDocumentPath2=PCB1.PcbDoc
+OutputVariantName2=
+OutputEnabled2=0
+OutputEnabled2_OutputMedium1=0
+OutputEnabled2_OutputMedium2=0
+OutputEnabled2_OutputMedium3=1
+OutputEnabled2_OutputMedium4=0
+OutputDefault2=0
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OutputFormat=Single|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=False|PlotBoardProfileFileName= |PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|DocumentPath=C:\Users\vamsi\OneDrive\Documents\GitDirectory\nRF54L15_miniDevKit_Altium_PCB\Altium project\nRF54L15_miniDevKit\PCB1.PcbDoc
+OutputType3=PCBDrawing
+OutputName3=Draftsman
+OutputCategory3=Documentation
+OutputDocumentPath3=PCB1.PCBDwf
+OutputVariantName3=
+OutputEnabled3=1
+OutputEnabled3_OutputMedium1=0
+OutputEnabled3_OutputMedium2=2
+OutputEnabled3_OutputMedium3=0
+OutputEnabled3_OutputMedium4=0
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [PublishSettings]
-OutputFilePath2=C:\Users\sve2rt\Documents\Altium\nRF54L15_miniDevKit\Altium project\nRF54L15_miniDevKit\.PDF
+OutputFilePath2=C:\Users\vamsi\OneDrive\Documents\GitDirectory\nRF54L15_miniDevKit_Altium_PCB\Altium project\nRF54L15_miniDevKit\.\nRF54L15_miniDevKit.pdf
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\sve2rt\Documents\Altium\nRF54L15_miniDevKit\Altium project\nRF54L15_miniDevKit\
+OutputBasePath2=.\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -29,9 +101,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=
+OutputFilePath3=C:\Users\vamsi\OneDrive\Documents\GitDirectory\nRF54L15_miniDevKit_Altium_PCB\Altium project\nRF54L15_miniDevKit\Project Outputs for nRF54L15_miniDevKit\
 ReleaseManaged3=1
-OutputBasePath3=
+OutputBasePath3=Project Outputs for nRF54L15_miniDevKit
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -41,10 +113,10 @@ OutputFileName3=
 OutputFileNameMulti3=
 UseOutputNameForMulti3=1
 OutputFileNameSpecial3=
-OpenOutput3=1
+OpenOutput3=0
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=
+OutputBasePath4=Project Outputs for nRF54L15_miniDevKit
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -81,10 +153,10 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\sve2rt\Documents\Altium\nRF54L15_miniDevKit\Altium project\nRF54L15_miniDevKit\.PDF
+RelativeOutputPath2=C:\Users\vamsi\OneDrive\Documents\GitDirectory\nRF54L15_miniDevKit_Altium_PCB\Altium project\nRF54L15_miniDevKit\.\nRF54L15_miniDevKit.pdf
 OpenOutputs2=1
-RelativeOutputPath3=
-OpenOutputs3=1
+RelativeOutputPath3=C:\Users\vamsi\OneDrive\Documents\GitDirectory\nRF54L15_miniDevKit_Altium_PCB\Altium project\nRF54L15_miniDevKit\Project Outputs for nRF54L15_miniDevKit\
+OpenOutputs3=0
 AddToProject3=1
 TimestampFolder3=0
 UseOutputName3=0
@@ -95,38 +167,4 @@ OpenIPCOutput3=0
 EnableReload3=0
 RelativeOutputPath4=
 OpenOutputs4=1
-
-[OutputGroup1]
-Name=
-Description=
-TargetOutputMedium=PDF
-VariantName=[No Variations]
-VariantScope=0
-CurrentConfigurationName=
-TargetPrinter=Virtual Printer
-PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputMedium1=Print Job
-OutputMedium1_Type=Printer
-OutputMedium1_Printer=
-OutputMedium1_PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputMedium2=PDF
-OutputMedium2_Type=Publish
-OutputMedium3=Folder Structure
-OutputMedium3_Type=GeneratedFiles
-OutputMedium4=Video
-OutputMedium4_Type=Multimedia
-OutputType1=Schematic Print
-OutputName1=Schematic Prints
-OutputCategory1=Documentation
-OutputDocumentPath1=[Project Physical Documents]
-OutputVariantName1=[No Variations]
-OutputEnabled1=1
-OutputEnabled1_OutputMedium1=0
-OutputEnabled1_OutputMedium2=1
-OutputEnabled1_OutputMedium3=0
-OutputEnabled1_OutputMedium4=0
-OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=
 

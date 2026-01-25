@@ -1,4 +1,0 @@
-Change Component Footprint: Designator=P2 Old Footprint=61301011121 New Footprint=Male_Headers_254_1x10
-Change Component Comment : Designator=P2 Old Comment=61301011121 New Comment=1X10 2.54 male headers
-Change Managed Component Library Link : Designator=P2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=BB633DE0-B74F-407E-BEC6-BACEBA6817E9 New ItemGUID= Old RevisionGUID=F97D0EA0-F34D-43C0-8DD2-3BF35ED02266 New RevisionGUID=
-Change component parameters: Designator = "P2" ("P2"); Footprint = "61301011121"; UniqueID = "\IQWSTXHF" ("\IQWSTXHF")
