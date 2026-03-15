@@ -3,7 +3,7 @@
 ## Description   
 The **nRF54L15 miniDevKit** is a high-performance, custom-designed development board featuring the **Nordic Semiconductor nRF54L15** SoC. Designed in **Altium Designer**, this board is tailored for embedded development, IoT applications, and prototyping. It highlights advanced **PCB design principles**, power management, and optimized signal routing.  
 
-<img src="Images/PCB1.png" width="150">
+<img src="Images/PCB1.png" width="200">
 <img src="Images/PCB2.png" width="400">
 
 ## Features  
@@ -52,8 +52,7 @@ The **nRF54L15 miniDevKit** supports multiple power input options:
 - **3V3 pin** – Connect with a stable 3.3V DC power supply
 
 ## Mechanical & Design Files  
-The following files are included in the project folder for reference:  
-- **[Mechanical Drawings](Schematics/nRF54L15_miniDevKit%20-%20Mechanical.pdf)** – Provides dimensions and mounting details  
+The following files are included in the project folder for reference:   
 - **[3D Model](3D%20model/)** – A full 3D representation of the board for enclosure design  
 - **[Schematics (PDF)](Schematics/nRF54L15_miniDevKit.pdf)** – A complete circuit diagram of the board 
 

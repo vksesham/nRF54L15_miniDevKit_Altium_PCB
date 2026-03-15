@@ -1,15 +1,40 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 10:53:37 On 25/01/2026
+Start Output Generation At 10:34:24 On 15/03/2026
 
-Output: Gerber X2 Files
-Type  : GerberX2
+Output: ODB++ Files
+Type  : ODB
 From  : PCB Document [PCB1.PcbDoc]
-   Generated File[PCB1.EXTREP]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[matrix]
    Generated File[PCB1.REP]
 
 
-Files Generated   : 2
+Files Generated   : 27
 Documents Printed : 0
 
-Finished Output Generation At 10:53:37 On 25/01/2026
+Finished Output Generation At 10:34:31 On 15/03/2026

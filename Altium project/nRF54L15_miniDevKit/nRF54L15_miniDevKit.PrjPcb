@@ -260,7 +260,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -302,26 +302,151 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PACTPFXV
+DocumentUniqueId=FHXEZFQT
+
+[Document16]
+DocumentPath=nRF54L15_miniDevKit.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for nRF54L15_miniDevKit\Design Rule Check - PCB1.html
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for nRF54L15_sense\Design Rule Check - PCB1.html
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for nRF54L15_sense\Move Component(s) Origin To Grid - PCB1.html
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for nRF54L15_miniDevKit\GerberX2\PCB1.EXTREP
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument5]
+DocumentPath=Project Outputs for nRF54L15_sense\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\bottom_layer__sig_\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\dielectric_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\dielectric_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer__sig_-top_layer__sig_\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer__sig_-top_layer__sig_\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\plane2__gnd_\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\plane__gnd_\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\top_layer__sig_\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for nRF54L15_sense\Move Component(s) Origin To Grid - PCB1.html
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\GerberX2\PCB1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
 DocumentPath=Project Outputs for nRF54L15_miniDevKit\GerberX2\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer__sig_-top_layer__sig_\tools
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for nRF54L15_miniDevKit\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer__sig_-top_layer__sig_\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -859,11 +984,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=AnsysEDB
-OutputName13=Ansys EDB
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1337,10 +1457,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=MyCustomLib.SchLib
+ComponentDesignItemID0=nRF54L15_QFN8_6X6
+ComponentSymbolReference0=nRF54L15_QFN8_6X6
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1354,6 +1480,19 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Library Reference
+ParameterUpdate3=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=nRF54L15_QFN8_6X6
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
